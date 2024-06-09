@@ -1,28 +1,6 @@
-﻿Country,Country_Code,Region,Population_15_up,Gallup_World_Poll_identifier,Weight,Gender,Age,Education,Income_Quality,Respondent_Is_In_Workforce,Residence,Saved_In_The_Past_Year,Internet_Access,Made_Or_Received_A_Digital_Payment
-Afghanistan,AFG,South Asia,22647496,144274031,0.716416276,2,43,2,4,1,1,0,2,1
-Afghanistan,AFG,South Asia,22647496,180724554,0.497408008,2,55,1,3,1,1,0,2,0
-Afghanistan,AFG,South Asia,22647496,130686682,0.650431377,1,15,1,2,2,1,0,2,0
-Afghanistan,AFG,South Asia,22647496,142646649,0.991861589,2,23,1,4,1,2,0,2,0
-Afghanistan,AFG,South Asia,22647496,199055310,0.55493961,1,46,1,1,2,1,0,2,0
-Afghanistan,AFG,South Asia,22647496,139429670,0.646867465,2,30,1,2,1,1,1,2,0
-Afghanistan,AFG,South Asia,22647496,202431723,0.396784208,1,50,1,5,2,2,1,2,1
-Thailand,THA,East Asia & Pacific (excluding high income),58246340,179153345,0.519390247,1,45,3,5,1,,1,1,1
-Thailand,THA,East Asia & Pacific (excluding high income),58246340,168115370,1.232493599,2,31,3,5,1,,1,1,1
-Thailand,THA,East Asia & Pacific (excluding high income),58246340,113319660,0.679821138,2,20,3,5,1,,1,1,1
-Thailand,THA,East Asia & Pacific (excluding high income),58246340,117722538,1.393369416,2,25,1,5,1,,0,1,1
-Thailand,THA,East Asia & Pacific (excluding high income),58246340,116342525,0.924427522,1,45,1,2,1,,0,1,1
-Thailand,THA,East Asia & Pacific (excluding high income),58246340,195326404,1.392867721,1,46,2,3,2,,1,1,1
-Thailand,THA,East Asia & Pacific (excluding high income),58246340,162908331,0.289066686,1,43,3,3,1,,1,1,1
-Thailand,THA,East Asia & Pacific (excluding high income),58246340,189274613,0.435480365,2,22,3,3,1,,1,1,1
-Thailand,THA,East Asia & Pacific (excluding high income),58246340,136994868,0.28810274,1,32,2,3,1,,1,1,1
-Uruguay,URY,High income,2767343.5,115188408,1.439032238,1,24,2,1,1,2,0,1,0
-Uruguay,URY,High income,2767343.5,131683401,0.602382145,1,53,2,2,2,1,0,1,0
-Uruguay,URY,High income,2767343.5,154378169,0.405783047,1,67,1,3,2,2,0,1,0
-Uruguay,URY,High income,2767343.5,140565372,1.050488737,2,27,1,2,1,2,0,2,1
-Uruguay,URY,High income,2767343.5,155109373,0.681571854,2,54,2,5,1,2,0,1,1
-Uruguay,URY,High income,2767343.5,157232624,1.642709184,2,49,2,2,2,1,0,1,1
-Uzbekistan,UZB,Europe & Central Asia (excluding high income),24373204,181235144,0.253000316,1,65,2,5,1,2,1,1,1
-Uzbekistan,UZB,Europe & Central Asia (excluding high income),24373204,157436350,0.708298909,2,63,2,1,1,2,0,1,0
-Uzbekistan,UZB,Europe & Central Asia (excluding high income),24373204,115952112,0.303684008,1,33,2,4,2,2,0,1,0
-Uzbekistan,UZB,Europe & Central Asia (excluding high income),24373204,185931913,0.765112458,2,52,2,3,1,2,1,1,0
-Uzbekistan,UZB,Europe & Central Asia (excluding high income),24373204,159502702,0.58623131,2,57,2,4,1,1,0,1,0
+﻿Country,Country_Code,Region,Population_15_up,Gallup_World_Poll_identifier,Weight,Gender,Age,Education,Income_Quality,Respondent_is_in_workforce,Residence,Internet_access,Saved_in_the_past_year,Made_or_received_a_digital_payment
+Afghanistan,AFG,South Asia,22647496,144274031,0.716416276,2,43,2,4,1,1,2,0,1
+Afghanistan,AFG,South Asia,22647496,180724554,0.497408008,2,55,1,3,1,1,2,0,0
+Afghanistan,AFG,South Asia,22647496,130686682,0.650431377,1,15,1,2,2,1,2,0,0
+Afghanistan,AFG,South Asia,22647496,142646649,0.991861589,2,23,1,4,1,2,2,0,0
+Afghanistan,AFG,South Asia,22647496,199055310,0.55493961,1,46,1,1,2,1,2,0,0

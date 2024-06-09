@@ -7,7 +7,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # Load the dataset
-csv_file_path = 'Pre-Processed-Data.csv'  # Replace with the actual path to your CSV file
+csv_file_path = 'Data/Pre-Processed-Data.csv'  # Replace with the actual path to your CSV file
 data = pd.read_csv(csv_file_path)
 
 # Display the first few rows and columns to understand its structure
@@ -18,13 +18,13 @@ print(data.columns.tolist())
 
 # Encode categorical variables using LabelEncoder
 label_encoders = {}
-for column in ['Region', 'Made or received a digital payment']:
+for column in ['Region', 'Made_or_received_a_digital_payment']:
     le = LabelEncoder()
     data[column] = le.fit_transform(data[column].astype(str))
     label_encoders[column] = le
 
 # Define the dependent variable
-dependent_var = 'Made or received a digital payment'
+dependent_var = 'Made_or_received_a_digital_payment'
 
 # Define the independent variable
 independent_var = 'Region'

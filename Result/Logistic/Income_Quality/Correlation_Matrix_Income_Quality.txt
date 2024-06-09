@@ -1,0 +1,3 @@
+                                    Income_Quality  Made_or_received_a_digital_payment
+Income_Quality                            1.000000                            0.164489
+Made_or_received_a_digital_payment        0.164489                            1.000000

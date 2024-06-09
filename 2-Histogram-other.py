@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # Load the dataset
-csv_file_path = 'F:/mba/511.3/Project/PythonProject/Final/Pre-Processed-Data.csv'  # Replace with the actual path to your CSV file
+csv_file_path = 'Data/Pre-Processed-Data.csv'  # Replace with the actual path to your CSV file
 data = pd.read_csv(csv_file_path)
 
 # Display the first few rows and columns to understand its structure
@@ -12,18 +12,19 @@ data = pd.read_csv(csv_file_path)
 # print("\nColumns in the dataset:")
 # print(data.columns.tolist())
 
-# Replace the values in "Made or received a digital payment" with 0 and 1
-# data['Made or received a digital payment'] = data['Made or received a digital payment'].map({'No': 0, 'Yes': 1})
+# Replace the values in "Made_or_received_a_digital_payment" with 0 and 1
+# data['Made_or_received_a_digital_payment'] = data['Made_or_received_a_digital_payment'].map({'No': 0, 'Yes': 1})
 
 # Define the configurations for histograms
 configurations = [
-    ("Region", "Made or received a digital payment"),
-    ("Country", "Made or received a digital payment"),
-    ("Education", "Made or received a digital payment"),
-    ("Internet access", "Made or received a digital payment"),
-    ("Income Quality", "Made or received a digital payment"),
-    ("Residence", "Made or received a digital payment"),
-    ("Gender", "Made or received a digital payment"),
+    ("Region", "Made_or_received_a_digital_payment"),
+    ("Country", "Made_or_received_a_digital_payment"),
+    ("Education", "Made_or_received_a_digital_payment"),
+    ("Internet_access", "Made_or_received_a_digital_payment"),
+    ("Income_Quality", "Made_or_received_a_digital_payment"),
+    ("Residence", "Made_or_received_a_digital_payment"),
+    ("Saved_in_the_past_year", "Made_or_received_a_digital_payment"),
+    ("Gender", "Made_or_received_a_digital_payment"),
 ]
 
 # Generate histograms for each configuration
