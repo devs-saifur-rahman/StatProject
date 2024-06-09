@@ -2,7 +2,7 @@ import pandas as pd
 from scipy.stats import chi2_contingency
 
 # Load the data
-df = pd.read_csv('Pre-Processed-Data.csv')
+df = pd.read_csv('Data/Pre-Processed-Data.csv')
 
 # Create a contingency table for Internet access and Digital Payment usage
 contingency_table = pd.crosstab(df['Internet access'], df['Made or received a digital payment'])
