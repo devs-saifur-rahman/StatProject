@@ -1,0 +1,3 @@
+                                    Internet_access  Made_or_received_a_digital_payment
+Internet_access                            1.000000                           -0.408026
+Made_or_received_a_digital_payment        -0.408026                            1.000000

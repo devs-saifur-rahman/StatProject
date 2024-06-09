@@ -1,0 +1,51 @@
+{
+    "logistic_regression_summary": "                                   Results: Logit\n====================================================================================\nModel:              Logit                              Method:           MLE        \nDependent Variable: Made_or_received_a_digital_payment Pseudo R-squared: 0.000      \nDate:               2024-06-10 02:35                   AIC:              186454.0154\nNo. Observations:   143887                             BIC:              186473.7690\nDf Model:           1                                  Log-Likelihood:   -93225.    \nDf Residuals:       143885                             LL-Null:          -93261.    \nConverged:          1.0000                             LLR p-value:      3.2398e-17 \nNo. Iterations:     4.0000                             Scale:            1.0000     \n------------------------------------------------------------------------------------------\n                Coef.        Std.Err.          z          P>|z|        [0.025       0.975]\n------------------------------------------------------------------------------------------\nconst           0.5349         0.0109       49.2638       0.0000       0.5136       0.5561\nCountry         0.0012         0.0001        8.4349       0.0000       0.0009       0.0014\n====================================================================================\n",
+    "confusion_matrix": [
+        [
+            0,
+            50525
+        ],
+        [
+            0,
+            93362
+        ]
+    ],
+    "roc_auc": 0.51360337999388,
+    "classification_report": {
+        "0": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1-score": 0.0,
+            "support": 50525.0
+        },
+        "1": {
+            "precision": 0.6488563942538241,
+            "recall": 1.0,
+            "f1-score": 0.7870380907822583,
+            "support": 93362.0
+        },
+        "accuracy": 0.6488563942538241,
+        "macro avg": {
+            "precision": 0.32442819712691207,
+            "recall": 0.5,
+            "f1-score": 0.39351904539112914,
+            "support": 143887.0
+        },
+        "weighted avg": {
+            "precision": 0.4210146203640741,
+            "recall": 0.6488563942538241,
+            "f1-score": 0.5106746977253901,
+            "support": 143887.0
+        }
+    },
+    "correlation_matrix": {
+        "Country": {
+            "Country": 1.0,
+            "Made_or_received_a_digital_payment": 0.022240351817204556
+        },
+        "Made_or_received_a_digital_payment": {
+            "Country": 0.022240351817204556,
+            "Made_or_received_a_digital_payment": 1.0
+        }
+    }
+}
