@@ -1,0 +1,129 @@
+ID,Name,Label,ColumnName
+V2,economy,Economy,Country
+V3,economycode,Economy Code,Country Code
+V4,regionwb,Regional code,Region
+V5,pop_adult,Population 15 up,Population 15 up
+V6,wpid_random,Gallup World Poll identifier,Gallup World Poll identifier
+V7,wgt,Weight,Weight
+V8,female,Respondent is female,Gender
+V9,age,Respondent age,Age
+V10,educ,Respondent education level,Education
+V11,inc_q,Within-economy household income quintile,Income Quality
+V12,emp_in,Respondent is in workforce,Respondent is in workforce
+V13,urbanicity_f2f,Respondent lives in rural area,Residence
+V14,account,Has an account,Account
+V15,account_fin,Has an account at a financial institution,Has an account at a financial institution
+V16,account_mob,Has a mobile money account,Has a mobile money account
+V17,fin1_1a,Opened first account to receive a wage payment,Opened first account to receive a wage payment
+V18,fin1_1b,Opened first account to receive money from the government,Opened first account to receive money from the government
+V19,fin2,Has a debit card,Has a debit card
+V20,fin4,Used a debit card,Used a debit card
+V21,fin4a,Used a debit card in-store,Used a debit card in-store
+V22,fin5,Used a mobile phone or internet to access account,Used a mobile phone or internet to access account
+V23,fin6,Used a mobile phone or internet to check account balance,Used a mobile phone or internet to check account balance
+V24,fin7,Has a credit card,Has a credit card
+V25,fin8,Used a credit card,Used a credit card
+V26,fin8a,Used a credit card in-store,Used a credit card in-store
+V27,fin8b,Paid credit card balances in full,Paid credit card balances in full
+V28,fin9,Made any deposit into the account,Made any deposit into the account
+V29,fin9a,Make deposits into the account two or more times per month,Make deposits into the account two or more times per month
+V30,fin10,Withdrew from the account,Withdrew from the account
+V31,fin10_1a,Reason for inactive account: too far,Reason for inactive account: too far
+V32,fin10_1b,Reason for inactive account: no need,Reason for inactive account: no need
+V33,fin10_1c,Reason for inactive account: lack money,Reason for inactive account: lack money
+V34,fin10_1d,Reason for inactive account: not comfortable using it,Reason for inactive account: not comfortable using it
+V35,fin10_1e,Reason for inactive account: lack trust,Reason for inactive account: lack trust
+V36,fin10a,Withdrew from the account two or more times per month,Withdrew from the account two or more times per month
+V37,fin10b,Used account to store money,Used account to store money
+V38,fin11_1,Unbanked: use account without help,Unbanked: use account without help
+V39,fin11a,Reason for no account: too far,Reason for no account: too far
+V40,fin11b,Reason for no account: too expensive,Reason for no account: too expensive
+V41,fin11c,Reason for no account: lack documentation,Reason for no account: lack documentation
+V42,fin11d,Reason for no account: lack trust,Reason for no account: lack trust
+V43,fin11e,Reason for no account: religious reasons,Reason for no account: religious reasons
+V44,fin11f,Reason for no account: lack money,Reason for no account: lack money
+V45,fin11g,Reason for no account: family member already has one,Reason for no account: family member already has one
+V46,fin11h,Reason for no account: no need for financial services,Reason for no account: no need for financial services
+V47,fin13_1a,Reason for no mobile money account: too far,Reason for no mobile money account: too far
+V48,fin13_1b,Reason for no mobile money account: too expensive,Reason for no mobile money account: too expensive
+V49,fin13_1c,Reason for no mobile money account: lack documentation,Reason for no mobile money account: lack documentation
+V50,fin13_1d,Reason for no mobile money account: lack of money,Reason for no mobile money account: lack of money
+V51,fin13_1e,Reason for no mobile money account: use agent,Reason for no mobile money account: use agent
+V52,fin13_1f,Reason for no mobile money account: no mobile phone,Reason for no mobile money account: no mobile phone
+V53,fin13a,Use mobile money account two or more times a month,Use mobile money account two or more times a month
+V54,fin13b,Use mobile money account to store money,Use mobile money account to store money
+V55,fin13c,Use mobile money account to borrow money,Use mobile money account to borrow money
+V56,fin13d,Use mobile money account without help,Use mobile money account without help
+V57,fin14_1,Use mobile phone to pay for a purchase in-store,Use mobile phone to pay for a purchase in-store
+V58,fin14_2,Paid digitally for an in-store purchase for the first time after COVID-19,Paid digitally for an in-store purchase for the first time after COVID-19
+V59,fin14_2,_China Paid digitally for an in-store purchase for the first time since 2020,_China Paid digitally for an in-store purchase for the first time since 2020
+V60,fin14a,Made bill payments online using the Internet,Made bill payments online using the Internet
+V61,fin14a1,Send money to a relative or friend online using the Internet,Send money to a relative or friend online using the Internet
+V62,fin14b,Bought something online using the Internet,Bought something online using the Internet
+V63,fin14c,Paid online or in cash at delivery,Paid online or in cash at delivery
+V64,fin14c_2,Paid online for an online purchase for the first time after COVID-19,Paid online for an online purchase for the first time after COVID-19
+V65,fin14c_2_China,Paid online for an online purchase for the first time since 2020,Paid online for an online purchase for the first time since 2020
+V66,fin16,Saved for old age,Saved for old age
+V67,fin17a,Saved using an account at a financial institution,Saved using an account at a financial institution
+V68,fin17a1,Saved using a mobile money account,Saved using a mobile money account
+V69,fin17b,Saved using an informal savings club,Saved using an informal savings club
+V70,fin20,Borrowed for medical purposes,Borrowed for medical purposes
+V71,fin22a,Borrowed from a financial institution,Borrowed from a financial institution
+V72,fin22b,Borrowed from family or friends,Borrowed from family or friends
+V73,fin22c,Borrowed from an informal savings club,Borrowed from an informal savings club
+V74,fin24,Main source of emergency funds in 30 days,Main source of emergency funds in 30 days
+V75,fin24a,Difficulty of emergency funds in 30 days,Difficulty of emergency funds in 30 days
+V76,fin24b,Difficulty of emergency funds in 7 days,Difficulty of emergency funds in 7 days
+V77,fin26,Sent domestic remittances,Sent domestic remittances
+V78,fin27_1,Sent domestic remittances through an account,Sent domestic remittances through an account
+V79,fin27c1,Sent domestic remittances in cash,Sent domestic remittances in cash
+V80,fin27c2,Sent domestic remittances through an MTO,Sent domestic remittances through an MTO
+V81,fin28,Received domestic remittances,Received domestic remittances
+V82,fin29_1,Received domestic remittances through an account,Received domestic remittances through an account
+V83,fin29c1,Received domestic remittances in cash,Received domestic remittances in cash
+V84,fin29c2,Received domestic remittances through an MTO,Received domestic remittances through an MTO
+V85,fin30,Paid a utility bill,Paid a utility bill
+V86,fin31a,Paid a utility bill using an account,Paid a utility bill using an account
+V87,fin31b,Paid a utility bill using a mobile phone,Paid a utility bill using a mobile phone
+V88,fin31b1,Paid a utility bill from an account or mobile phone for the first time after the,Paid a utility bill from an account or mobile phone for the first time after the
+V89,fin31b1_China,Paid a utility bill from an account or mobile phone for the first time since 202,Paid a utility bill from an account or mobile phone for the first time since 202
+V90,fin31c,Paid a utility bill in cash,Paid a utility bill in cash
+V91,fin32,Received wage payments,Received wage payments
+V92,fin33,Received public sector wage payments,Received public sector wage payments
+V93,fin34a,Received wage payments into an account,Received wage payments into an account
+V94,fin34b,Received wage payments to a mobile phone,Received wage payments to a mobile phone
+V95,fin34d,Received wage payments in cash,Received wage payments in cash
+V96,fin34e,Received wage payments to a card,Received wage payments to a card
+V97,fin35,Received wage payments into an account or to a phone or a card and paid higher t,Received wage payments into an account or to a phone or a card and paid higher t
+V98,fin37,Received a government transfer,Received a government transfer
+V99,fin38,Received a government pension,Received a government pension
+V100,fin39a,Received a government transfer or pension into an account,Received a government transfer or pension into an account
+V101,fin39b,Received a government transfer or pension to a mobile phone,Received a government transfer or pension to a mobile phone
+V102,fin39d,Received a government transfer or pension in cash,Received a government transfer or pension in cash
+V103,fin39e,Received a government transfer or pension to a card,Received a government transfer or pension to a card
+V104,fin42,Received an agricultural payment,Received an agricultural payment
+V105,fin42a,Grow own crops or raise livestock,Grow own crops or raise livestock
+V106,fin43a,Received an agricultural payment into an account,Received an agricultural payment into an account
+V107,fin43b,Received an agricultural payment to a mobile phone,Received an agricultural payment to a mobile phone
+V108,fin43d,Received an agricultural payment in cash,Received an agricultural payment in cash
+V109,fin43e,Received an agricultural payment to a card,Received an agricultural payment to a card
+V110,fin44a,Financially worried: old age,Financially worried: old age
+V111,fin44b,Financially worried: medical cost,Financially worried: medical cost
+V112,fin44c,Financially worried: bills,Financially worried: bills
+V113,fin44d,Financially worried: education,Financially worried: education
+V114,fin45,Financially most worried,Financially most worried
+V115,fin45_1,Financially worried due to COVID-19,Financially worried due to COVID-19
+V116,fin45_1,_China Financial worry,_China Financial worry
+V117,saved,Saved in the past year,Saved in the past year
+V118,borrowed,Borrowed in the past year,Borrowed in the past year
+V119,receive_wages,Received a wage payment,Received a wage payment
+V120,receive_transfers,Received a government transfer payment,Received a government transfer payment
+V121,receive_pension,Received a government pension payment,Received a government pension payment
+V122,receive_agriculture,Received a payment for the sale of agricultural goods,Received a payment for the sale of agricultural goods
+V123,pay_utilities,Paid a utility bill,Paid a utility bill
+V124,remittances,Made or received a domestic remittance payment,Made or received a domestic remittance payment
+V125,mobileowner,Owns a mobile phone,Owns a mobile phone
+V126,internetaccess,Internet access,Internet access
+V127,anydigpayment,Made or received a digital payment,Made or received a digital payment
+V128,merchantpay_dig,Made a digital merchant payment,Digital merchant payment
+V129,year,Year,Year
