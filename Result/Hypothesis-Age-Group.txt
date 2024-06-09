@@ -1,0 +1,25 @@
+Contingency Table:
+Made_or_received_a_digital_payment      0      1
+Age_Group                                       
+10-19                                7356   4633
+20-29                               12329  20109
+30-39                               10226  20353
+40-49                                7588  16172
+50-59                                5873  12812
+60-69                                4121  11089
+70-79                                2109   5848
+80-89                                 744   1792
+90-99                                 179    554
+Chi2ContingencyResult(statistic=4759.148164749669, pvalue=0.0, dof=8, expected_freq=array([[ 4209.86068929,  7779.13931071],
+       [11390.39628319, 21047.60371681],
+       [10737.62032011, 19841.37967989],
+       [ 8343.17207253, 15416.82792747],
+       [ 6561.11827337, 12123.88172663],
+       [ 5340.8942434 ,  9869.1057566 ],
+       [ 2794.04967092,  5162.95032908],
+       [  890.50018417,  1645.49981583],
+       [  257.38826301,   475.61173699]]))
+Chi-squared Test Results:
+Chi-squared Statistic: 4759.148164749669
+P-value: 0.0
+Result: Reject the null hypothesis - Age group has a significant effect on the usage of digital payments.

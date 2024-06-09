@@ -1,0 +1,111 @@
+Contingency Table:
+Made_or_received_a_digital_payment      0      1
+Internet_access                                 
+1                                   22357  78613
+2                                   27784  14542
+3                                     285    104
+4                                      99    103
+Chi2ContingencyResult(statistic=25036.428227969307, pvalue=0.0, dof=3, expected_freq=array([[35454.96987219, 65515.03012781],
+       [14862.50425681, 27463.49574319],
+       [  136.59486264,   252.40513736],
+       [   70.93100836,   131.06899164]]))
+Chi-squared Test Results:
+Chi-squared Statistic: 25036.428227969307
+P-value: 0.0
+Result: Reject the null hypothesis - Internet access has a significant effect on the usage of digital payments.
+Contingency Table:
+Made_or_received_a_digital_payment                      0      1
+Region                                                          
+East Asia & Pacific (excluding high income)          4101   8478
+Europe & Central Asia (excluding high income)        6446  12584
+High income                                          2049  38586
+Latin America & Caribbean (excluding high income)    7998   8521
+Middle East & North Africa (excluding high income)   6504   3549
+South Asia                                           5142   2867
+Sub-Saharan Africa (excluding high income)          18225  17837
+Chi-squared Test Results:
+Chi-squared Statistic: 27983.283510157176
+P-value: 0.0
+Result: Reject the null hypothesis - There is a significant effect of region on the usage of digital payments.
+Contingency Table:
+Made_or_received_a_digital_payment      0      1
+Income_Quality                                  
+1                                   11191  12162
+2                                   10129  14751
+3                                   10132  17414
+4                                    9840  21086
+5                                    9233  27949
+Chi-squared Test Results:
+Chi-squared Statistic: 3929.680979476368
+P-value: 0.0
+Result: Reject the null hypothesis - There is a significant effect of income quality on the usage of digital payments.
+Contingency Table:
+Made_or_received_a_digital_payment      0      1
+Gender                                          
+1                                   30004  46581
+2                                   20521  46781
+Chi-squared Test Results:
+Chi-squared Statistic: 1185.9411866890514
+P-value: 6.929253206383374e-260
+Result: Reject the null hypothesis - There is a significant effect of gender on the usage of digital payments.
+Contingency Table:
+Made_or_received_a_digital_payment      0      1
+Education                                       
+1                                   24793  13795
+2                                   22395  50006
+3                                    2980  29163
+4                                     193    202
+5                                     164    196
+Chi-squared Test Results:
+Chi-squared Statistic: 24405.509114897835
+P-value: 0.0
+Result: Reject the null hypothesis - There is a significant effect of education on the usage of digital payments.
+Contingency Table:
+Made_or_received_a_digital_payment      0      1
+Residence                                       
+1.0                                 19523  12258
+2.0                                 21476  22387
+Chi-squared Test Results:
+Chi-squared Statistic: 1153.5813393714723
+P-value: 7.473692584896644e-253
+Result: Reject the null hypothesis - There is a significant effect of residence type on the usage of digital payments.
+Contingency Table:
+Made_or_received_a_digital_payment      0      1
+Income_Quality                                  
+1                                   11191  12162
+2                                   10129  14751
+3                                   10132  17414
+4                                    9840  21086
+5                                    9233  27949
+Chi-squared Test Results:
+Chi-squared Statistic: 3929.680979476368
+P-value: 0.0
+Result: Reject the null hypothesis - There is a significant effect of income quality on the usage of digital payments.
+Contingency Table:
+Made_or_received_a_digital_payment      0      1
+Saved_in_the_past_year                          
+0                                   35613  30494
+1                                   14912  62868
+Chi-squared Test Results:
+Chi-squared Statistic: 18883.288832717823
+P-value: 0.0
+Result: Reject the null hypothesis - There is a significant effect of saving habbit on the usage of digital payments.
+Contingency Table:
+Made_or_received_a_digital_payment    0    1
+Country                                     
+Afghanistan                         908   94
+Albania                             676  324
+Algeria                             480  522
+Argentina                           228  775
+Armenia                             529  471
+                                 ...  ...
+Vietnam                             562  438
+West Bank and Gaza                  743  257
+Yemen, Rep.                         845  155
+Zambia                              461  539
+Zimbabwe                            418  582
+[139 rows x 2 columns]
+Chi-squared Test Results:
+Chi-squared Statistic: 48756.93025881663
+P-value: 0.0
+Result: Reject the null hypothesis - There is a significant effect of country on the usage of digital payments.
