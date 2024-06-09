@@ -9,7 +9,7 @@ V8,female,Respondent is female,Gender
 V9,age,Respondent age,Age
 V10,educ,Respondent education level,Education
 V11,inc_q,Within-economy household income quintile,Income_Quality
-V12,emp_in,Respondent is in workforce,Respondent_is_in_workforce
+V12,emp_in,Respondent is in workforce,Respondent_Is_In_Workforce
 V13,urbanicity_f2f,Respondent lives in rural area,Residence
 V14,account,Has an account,Account
 V15,account_fin,Has an account at a financial institution,Has_an_account_at_a_financial_institution
@@ -114,7 +114,7 @@ V113,fin44d,Financially worried: education,Financially_worried:_education
 V114,fin45,Financially most worried,Financially_most_worried
 V115,fin45_1,Financially worried due to COVID-19,Financially_worried_due_to_COVID-19
 V116,fin45_1,_China Financial worry,_China_Financial_worry
-V117,saved,Saved in the past year,Saved_in_the_past_year
+V117,saved,Saved in the past year,Saved_In_The_Past_Year
 V118,borrowed,Borrowed in the past year,Borrowed_in_the_past_year
 V119,receive_wages,Received a wage payment,Received_a_wage_payment
 V120,receive_transfers,Received a government transfer payment,Received_a_government_transfer_payment
@@ -123,7 +123,7 @@ V122,receive_agriculture,Received a payment for the sale of agricultural goods,R
 V123,pay_utilities,Paid a utility bill,Paid_a_utility_bill
 V124,remittances,Made or received a domestic remittance payment,Made_or_received_a_domestic_remittance_payment
 V125,mobileowner,Owns a mobile phone,Owns_a_mobile_phone
-V126,internetaccess,Internet access,Internet_access
-V127,anydigpayment,Made or received a digital payment,Made_or_received_a_digital_payment
+V126,internetaccess,Internet access,Internet_Access
+V127,anydigpayment,Made or received a digital payment,Made_Or_Received_A_Digital_Payment
 V128,merchantpay_dig,Made a digital merchant payment,Digital_merchant_payment
 V129,year,Year,Year
